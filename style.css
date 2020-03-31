@@ -1,0 +1,25 @@
+
+
+.One{
+width: 400px;
+height: 200px;
+background-color: red;
+}
+
+.Two{
+width: 250px;
+height: 50px;
+background-color: pink;
+}
+
+.Three{
+width: 100px;
+height: 25px;
+background-color: orange;
+}
+
+.Four{
+    width: 100px;
+    height: 25px;
+    background-color:purple;
+}
